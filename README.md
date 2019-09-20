@@ -2,7 +2,7 @@
 Web Developer Bootcamp course on Udemy by Colt Steel
 
 ### Syllabus
-Section 1: Introduction to this Course
+1. Introduction to this Course
 Section 2: Introduction to Front End Development
 Section 3: Introduction to HTML
 Section 4: Intermediate HTML
