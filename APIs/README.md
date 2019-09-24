@@ -3,4 +3,4 @@ In this project I worked with a simple API called The Open Movie Database or OMD
 
 ![](https://github.com/JasonHassold/WebDevBootcamp/blob/master/APIs/Screenshots/search.PNG)
 
-![](https://github.com/JasonHassold/WebDevBootcamp/blob/master/APIs/Screenshots/result.PNG)
+![](https://github.com/JasonHassold/WebDevBootcamp/blob/master/APIs/Screenshots/results.PNG)
