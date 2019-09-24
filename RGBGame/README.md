@@ -5,6 +5,8 @@ This was a really fun project to work on. You are presented with a RGB code and 
 
 [![RGB Game Demo](https://img.youtube.com/vi/zoWHOtTAxw0/hqdefault.jpg)](https://www.youtube.com/watch?v=zoWHOtTAxw0)
 
+#### Screenshots:
+
 ![](https://github.com/JasonHassold/WebDevBootcamp/blob/master/RGBGame/Screenshots/first.PNG)
 
 ![](https://github.com/JasonHassold/WebDevBootcamp/blob/master/RGBGame/Screenshots/second.PNG)
