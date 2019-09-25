@@ -7,7 +7,7 @@ while (command !== "quit") {
     if (command === "new") {
         todos.push(prompt("What is the new todo?"));
     }
-    else if (command === "list") {
+    else if (command == "list") {
         console.log("**********");
         todos.forEach(function(todo, i){
             console.log(i + ": " + todo);
