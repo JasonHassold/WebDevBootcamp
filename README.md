@@ -1,6 +1,13 @@
 # WebDevBootcamp
 Web Developer Bootcamp course on Udemy by Colt Steel
 
+### Most Interesting Projects
+RGB Game https://github.com/JasonHassold/WebDevBootcamp/tree/master/RGBGame
+
+Patatap.com Clone https://github.com/JasonHassold/WebDevBootcamp/tree/master/PatatapClone
+
+To-Do List https://github.com/JasonHassold/WebDevBootcamp/tree/master/ToDoList2.0
+
 ### Syllabus
 1. Introduction to this Course
 2. Introduction to Front End Development
