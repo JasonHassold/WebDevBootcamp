@@ -8,6 +8,8 @@ Patatap.com Clone https://github.com/JasonHassold/WebDevBootcamp/tree/master/Pat
 
 To-Do List https://github.com/JasonHassold/WebDevBootcamp/tree/master/ToDoList2.0
 
+RESTful Blog App https://github.com/JasonHassold/WebDevBootcamp/tree/master/RESTful%20Routing/BlogApp
+
 ### Syllabus
 1. Introduction to this Course
 2. Introduction to Front End Development
