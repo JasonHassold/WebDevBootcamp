@@ -6,9 +6,9 @@ RGB Game https://github.com/JasonHassold/WebDevBootcamp/tree/master/RGBGame
 
 Patatap.com Clone https://github.com/JasonHassold/WebDevBootcamp/tree/master/PatatapClone
 
-To-Do List https://github.com/JasonHassold/WebDevBootcamp/tree/master/ToDoList2.0
-
 RESTful Blog App https://github.com/JasonHassold/WebDevBootcamp/tree/master/RESTful%20Routing/BlogApp
+
+To-Do List https://github.com/JasonHassold/WebDevBootcamp/tree/master/ToDoList2.0
 
 ### Syllabus
 1. Introduction to this Course
